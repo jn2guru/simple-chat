@@ -1,4 +1,6 @@
 simple-chat
 ===========
 
-Simple chat server using python + django for learning/demonstrative purposes
+Simple chat server using Python + Django for learning/demonstrative purposes
+
+NOT intended for production applications.
